@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This will be my portfolio.
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I plan to make all my projects available via this website.
